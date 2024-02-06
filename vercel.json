@@ -1,0 +1,17 @@
+{
+    "build": {
+      "npm": {
+        "flags": ["install", "--force"]
+      },
+      "env": {
+        "NODE_ENV": "production"
+      }
+    },
+    "routes": [
+      {
+        "src": "/(.*)",
+        "dest": "/index.html"
+      }
+    ]
+  }
+  

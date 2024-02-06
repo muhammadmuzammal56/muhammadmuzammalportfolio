@@ -1,6 +1,6 @@
 import ReactCer from '../assets/png/ReactMeta.PNG'
 export const achievementData = {
-    bio : "The illiterate of the 21st century will not be those who cannot read and write, but those who cannot learn, unlearn, and relearn. - Alvin Toffler",
+    bio : "Develop a passion for learning. If you do, you will never cease to grow. - Anthony J. D’Angelo",
     achievements : [
         {
             id : 1,
