@@ -1,10 +1,10 @@
 export const educationData = [
     {
         id: 1,
-        institution: 'Govt High School Narowal',
-        course: 'Matric',
-        startYear: '2014',
-        endYear: '2016'
+        institution: 'University of Education Township Campus Lahore',
+        course: 'Bachelors in Information Technology',
+        startYear: '2018',
+        endYear: '2022'
     },
     {
         id: 2,
@@ -15,9 +15,9 @@ export const educationData = [
     },
     {
         id: 3,
-        institution: 'University of Education Township Campus Lahore',
-        course: 'Bachelors in Information Technology',
-        startYear: '2018',
-        endYear: '2022'
-    },
+        institution: 'Govt High School Narowal',
+        course: 'Matric',
+        startYear: '2014',
+        endYear: '2016'
+    }
 ]

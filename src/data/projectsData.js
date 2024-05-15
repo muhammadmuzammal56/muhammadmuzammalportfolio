@@ -2,6 +2,8 @@ import img1 from '../assets/png/mepco-smart.jpeg'
 import img2 from '../assets/png/e-operations.png'
 import img3 from '../assets/png/citizen-monitor.png'
 import img4 from '../assets/png/Dashboard.PNG'
+import img5 from '../assets/png/outfit.PNG'
+import img6 from '../assets/png/futurr.PNG'
 
 import two from '../assets/svg/projects/two.svg'
 import three from '../assets/svg/projects/three.svg'
@@ -44,10 +46,28 @@ export const projectsData = [
         id: 4,
         projectName: 'Admin Panel',
         projectDesc: 'Built from scratch, our admin panel features a lively dashboard showcasing vital business metrics such as sales, revenue, and expenses. Utilizing React hooks, apexcharts, motion-framer, and contemporary CSS, it offers interactive charts and tables providing insights into order statuses and customer feedback, all within an elegant and intuitive interface.',
-        tags: ['React Js','Material UI','Javascript','Apexcharts' ,'Framer-Motion','React-Circular-Progressbar'],
+        tags: ['React Js','Material UI','Javascript','Apexcharts' ,'Framer-Motion','React-Circular-Progressbar','SCSS','HTML'],
         code: 'https://github.com/muhammadmuzammal56/Dashboard',
         demo: 'https://dashboard-eight-rho-23.vercel.app/',
         image: img4
+    },
+    {
+        id: 5,
+        projectName: 'OutFit',
+        projectDesc: 'Lifestyle is your go-to for the latest fashion trends! As part of a leading retail group, we offer a wide array of apparel, footwear, accessories, and beauty products for everyone in the family, all in one convenient location.',
+        tags: ['React Js','Chakra UI','Javascript','React Reveal' ,'CSS','HTML'],
+        code: 'https://github.com/muhammadmuzammal56/outfit',
+        demo: 'https://outfit-beta.vercel.app/',
+        image: img5
+    },
+    {
+        id: 6,
+        projectName: 'Futurr',
+        projectDesc: 'I developed a React-based website dedicated to discovering the latest and most powerful AI resources in one place. This platform curates and reviews AI tools, ensuring users have an effortless selection process. Key features include sections for Rankings, Bookmarks, Categories, GPT Plugins, and Resources, providing comprehensive access to top AI innovations. Additionally, users can subscribe to stay updated with the newest advancements in AI technology.',
+        tags: ['React Js','Material UI','Javascript','CSS','HTML'],
+        code: 'https://github.com/muhammadmuzammal56/WebPractice',
+        demo: 'https://web-practice-iota.vercel.app/',
+        image: img6
     },
     
 ]
